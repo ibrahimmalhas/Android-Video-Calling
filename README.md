@@ -46,7 +46,7 @@ The following classes and interfaces used in the quickstart handle some of the m
 
 Open the sample project using Android Studio and run the application.
 
-![Final look and feel of the quick start app](../Media/quickstart-android-call-p2p.png)
+![Final look and feel of the quick start app](Media/quickstart-android-call-p2p.png)
 
 You can make an outbound VOIP call by providing a user ID in the text field and tapping the **Call** button. Calling `8:echo123` connects you with an echo bot, this is great for getting started and verifying your audio devices are working.
 
@@ -54,11 +54,11 @@ You can make an outbound VOIP call by providing a user ID in the text field and 
 - When user press "Report an issue", a new view will appear to add issue descreption.
 - When pressing on "Submit" button, a post method will go to "ACSNativeLogsCollector" application sending the issue descreption and all the .blog files to the machine that hosted that application.
 
-![title](../Media/AndroidWorkflow.png)
+![title](Media/AndroidWorkflow.png)
 
 *Here is a screenshot that shows the files sent to the ACSNativeLogsCollector, txt file for issue descreption and blog file for the logs.*
 
-![title](../Media/ACSNativeLogsCollector.png)
+![title](Media/ACSNativeLogsCollector.png)
 
 
 
