@@ -39,8 +39,8 @@ The following classes and interfaces used in the quickstart handle some of the m
 
 1. Open an instance of PowerShell, Windows Terminal, Command Prompt or equivalent and navigate to the directory that you'd like to clone the sample to.
 2. `git clone https://github.com/ibrahimmalhas/Android-Video-Calling.git` 
-3. With the `Access Token` procured in pre-requisites, add it to the **./app/src/main/java/com/contoso/acsquickstart/MainActivity.java** file. Assign your access token in line 27:
-   ```private static final String UserToken = "<User_Access_Token>";```
+3. you need to replace "<USER_ACCESS_TOKEN>" with the User Access Token you created in prerequisites.
+4. you need to replace  "<YOUR_DEVTUNNEL_ENDPOINT>" with your devtunnel endpoint URL that will recieve the blog files
 
 ## Run the sample
 
@@ -59,10 +59,3 @@ You can make an outbound VOIP call by providing a user ID in the text field and 
 *Here is a screenshot that shows the files sent to the ACSNativeLogsCollector, txt file for issue descreption and blog file for the logs.*
 
 ![title](Media/ACSNativeLogsCollector.png)
-
-
-
-## Run the code
-- Before running the sample, you need to replace the following:
-- "<USER_ACCESS_TOKEN>" with the User Access Token you created in prerequisites.
-- "<YOUR_DEVTUNNEL_ENDPOINT>" with your devtunnel endpoint URL that will recieve the blog files
