@@ -19,6 +19,7 @@ To complete this tutorial, you’ll need the following prerequisites:
 - [Android Studio](https://developer.android.com/studio), for running your Android application.
 - A deployed Communication Services resource. [Create a Communication Services resource](https://docs.microsoft.com/azure/communication-services/quickstarts/create-communication-resource).
 - A [User Access Token](https://docs.microsoft.com/azure/communication-services/quickstarts/access-tokens) for your Azure Communication Service.
+-  Run the ACSNativeLogsCollector application. [ACSNativeLogsCollector](https://github.com/ibrahimmalhas/ACSNativeLogsCollector).
 
 ## Code Structure
 
