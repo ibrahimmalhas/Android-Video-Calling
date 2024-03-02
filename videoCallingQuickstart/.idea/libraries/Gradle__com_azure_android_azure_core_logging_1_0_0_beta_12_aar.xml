@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.azure.android:azure-core-logging:1.0.0-beta.12@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6ae1e9dbabe64a61f91c34765a410400/transformed/jetified-azure-core-logging-1.0.0-beta.12/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6ae1e9dbabe64a61f91c34765a410400/transformed/jetified-azure-core-logging-1.0.0-beta.12/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.azure.android/azure-core-logging/1.0.0-beta.12/ad41996104a58abf55fc91eb8dcfb499ebdf5e6/azure-core-logging-1.0.0-beta.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.azure.android/azure-core-logging/1.0.0-beta.12/18032b3f2361b61b1443b6f45b76a9266ea00704/azure-core-logging-1.0.0-beta.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

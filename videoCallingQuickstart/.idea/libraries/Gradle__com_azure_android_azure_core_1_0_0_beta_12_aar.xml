@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.azure.android:azure-core:1.0.0-beta.12@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/892d504abdc492b9c1715552fe09a847/transformed/jetified-azure-core-1.0.0-beta.12/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/892d504abdc492b9c1715552fe09a847/transformed/jetified-azure-core-1.0.0-beta.12/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.azure.android/azure-core/1.0.0-beta.12/3d335d30542dea082fa8e0b5eebd09a486f42382/azure-core-1.0.0-beta.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.azure.android/azure-core/1.0.0-beta.12/a13d0fc535cf6425dd009858a6dc3f7a4df568a4/azure-core-1.0.0-beta.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
